@@ -41,7 +41,3 @@ def run_test(questions):
     print("Usted saco " + str(score) +"/" +str(len(questions)) + " corecta")
 
 run_test(questions)
-
-
-
-
